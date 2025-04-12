@@ -1,0 +1,34 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/databricks/databricks" {
+  version = "1.63.0"
+  hashes = [
+    "h1:mWr+oit0JhWLs/GspAGtpo7qbqKPjqyHDZ8XGXJ8nf4=",
+    "zh:16e4e8300b2586a17a97e69d78f0b25c7a90ff470dae0d50a7c53e468cdd2312",
+    "zh:236097ad5fc214f8b5baeeee397fdb59c5bae3ec8ace68d19f3c9377845a7581",
+    "zh:250e7029907ee20b7e13f64163df084fa4cabbebeef4a70da5845937304f8fed",
+    "zh:49ce1aae6e8395b6c304d4aac4c4c8d9f44768cb6a8484d0a992777ccd524afe",
+    "zh:f0e37364336b11060ef2b650660924657f1c63fece4e1d8f370e2bc6a0f6ad5f",
+    "zh:ffd284d6c180e91e91a6766402c34cd8ecce5101b248228372a316f2ab92dc88",
+  ]
+}
+
+provider "registry.terraform.io/hashicorp/azurerm" {
+  version = "4.16.0"
+  hashes = [
+    "h1:HZdmFPnC/+x6si15pq4rGYv/1TrCcyQXLnDMqq1SONw=",
+    "zh:2035e461a94bd4180557a06f8e56f228a8a035608d0dac4d08e5870cf9265276",
+    "zh:3f15778a22ef1b9d0fa28670e5ea6ef1094b0be2533f43f350a2ef15d471b353",
+    "zh:4f1a4d03b008dd958bcd6bf82cf088fbaa9c121be2fd35e10e6b06c6e8f6aaa1",
+    "zh:5859f31c342364e849b4f8c437a46f33e927fa820244d0732b8d2ec74a95712d",
+    "zh:693d0f15512ca8c6b5e999b3a7551503feb06b408b3836bc6a6403e518b9ddab",
+    "zh:7f4912bec5b04f5156935292377c12484c13582151eb3c2555df409a7e5fb6e0",
+    "zh:bb9a509497f3a131c52fac32348919bf1b9e06c69a65f24607b03f7b56fb47b6",
+    "zh:c1b0c64e49ac591fd038ad71e71403ff71c07476e27e8da718c29f0028ea6d0d",
+    "zh:dd4ca432ee14eb0bb0cdc0bb463c8675b8ef02497be870a20d8dfee3e7fe52b3",
+    "zh:df58bb7fea984d2b11709567842ca4d55b3f24e187aa6be99e3677f55cbbe7da",
+    "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
+    "zh:f7fb37704da50c096f9c7c25e8a95fe73ce1d3c5aab0d616d506f07bc5cfcdd8",
+  ]
+}
